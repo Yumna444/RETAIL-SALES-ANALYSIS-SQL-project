@@ -1,10 +1,10 @@
 
 Retail Sales Analysis – SQL Project
 
-📌 Project Overview:
+📌 Project Overview :
 This project focuses on analyzing a retail sales dataset using SQL to uncover business insights, detect patterns, and support data-driven decisions. The aim is to perform data cleaning, exploration, and deep analysis to answer key business questions related to customer behavior, product performance, and sales trends.
 
-🎯 Objectives
+🎯 Objectives :
 . Clean raw transactional data for consistency and accuracy.
 
 . Explore and summarize the sales data to identify patterns.
@@ -13,12 +13,12 @@ This project focuses on analyzing a retail sales dataset using SQL to uncover bu
 
 . Demonstrate SQL proficiency across data cleaning, aggregation, filtering, and analysis.
 
-🛠️ Tools & Technologies
+🛠️ Tools & Technologies :
 PostgreSQL using pgAdmin 4
 
 1-SQL queries for data extraction, transformation, and analysis
 
-2-Structured Query Language (SQL) concepts:
+2-Structured Query Language (SQL) concepts 
 
 3-CREATE TABLE, SELECT, GROUP BY, HAVING, ORDER BY, JOIN, CTE, RANK, WINDOW FUNCTIONS, and AGGREGATE FUNCTIONS
 
