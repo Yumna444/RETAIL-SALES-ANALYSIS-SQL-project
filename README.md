@@ -1,7 +1,7 @@
 
 Retail Sales Analysis – SQL Project
 
-📌 Project Overview
+📌 Project Overview:
 This project focuses on analyzing a retail sales dataset using SQL to uncover business insights, detect patterns, and support data-driven decisions. The aim is to perform data cleaning, exploration, and deep analysis to answer key business questions related to customer behavior, product performance, and sales trends.
 
 🎯 Objectives
